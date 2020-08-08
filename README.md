@@ -1,4 +1,4 @@
-<p align="center">[Website](https://onecloudplease.com) • [Twitter](https://twitter.com/iann0036) • [LinkedIn](https://www.linkedin.com/in/iann0036) • [Contact](https://onecloudplease.com/contact)</p>
+<p align="center"><a href="https://onecloudplease.com">Website</a> • <a href="https://twitter.com/iann0036">Twitter</a> • <a href="https://www.linkedin.com/in/iann0036">LinkedIn</a> • <a href="https://onecloudplease.com/contact">Contact</a></p>
 
 # Projects, Posts, Presentations and Podcasts
 
