@@ -4,20 +4,20 @@
 
 <img align="right" width="160" src="https://onecloudplease.com/images/other/AmbassadorLogo.png" />
 
-&#x270d; I also maintain a blog - you can find my articles on my website at [onecloudplease.com](https://onecloudplease.com/blog).
-
 ## Table of Contents
 
-- [AWS Projects](#aws-projects)
-- [Other Projects](#other-projects)
-- [Presentations](#presentations)
-- [Podcasts](#podcasts)
+- :cloud: [AWS Projects](#aws-projects)
+- :computer: [Other Projects](#other-projects)
+- :speaking_head: [Presentations](#presentations)
+- :headphones: [Podcasts](#podcasts)
+
+&#x270d; I also maintain a blog - you can find my articles on my website at [onecloudplease.com](https://onecloudplease.com/blog)
 
 ## AWS Projects
 
 | Project | Build With |
 |:--------------------------- |:-----|
-| [Former2](https://github.com/iann0036/former2) <br/> Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources. | JavaScript |
+| [Former2](https://github.com/iann0036/former2) <br/> Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources | JavaScript |
 | [Console Recorder for AWS](https://github.com/iann0036/AWSConsoleRecorder) <br/> Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates | JavaScript |
 | [AWS Account Controller](https://github.com/iann0036/aws-account-controller) <br/> Self-service creation and deletion of sandbox-style accounts | JavaScript |
 | [Live Sync for AWS Cloud9](https://github.com/iann0036/cloud9-sync) <br/> Synchronize your VS Code workspace with the AWS Cloud9 service | JavaScript |
@@ -64,6 +64,7 @@
 | [The pitfalls of privilege](https://www.brighttalk.com/webinar/the-pitfalls-of-privilege-managing-excess-permissions-in-the-cloud/) <br/> Presentation on managing excess permissions in the cloud | June 18, 2020 |
 | [Automating Infrastructure-as-Code...twice](https://youtu.be/JeKEi-me01k?t=456) | June 6, 2020 |
 | [CloudFormation Custom Types](https://docs.google.com/presentation/d/15SZJzIZMvYJZ8daFbUCndbVxfl7GOXbh51oNteKOSUw/edit?usp=sharing) | December 2, 2019 |
+| [Amazon Textract Overview](https://docs.google.com/presentation/d/1N9aeEJdUxBQV7ZXN66yUccs-409Rm544o2SfwL_7vb0/edit?usp=sharing) | September 18, 2019 |
 | [AWS in 20 minutes or so](https://docs.google.com/presentation/d/1UAx0c0AL3L3kPOIxlUPWwu4lEe_wygwX-TM_Zh0Mc68/edit?usp=sharing) <br/> Introduction to AWS | July 4, 2019 |
 
 ## Podcasts
