@@ -1,24 +1,23 @@
 [Website](https://onecloudplease.com) • [Twitter](https://twitter.com/iann0036) • [LinkedIn](https://www.linkedin.com/in/iann0036) • [Contact](https://onecloudplease.com/contact)
 
-# Projects, Presentations and Podcasts
+# Projects, Posts, Presentations and Podcasts
 
 <img align="right" width="160" src="https://onecloudplease.com/images/other/AmbassadorLogo.png" />
 
 ## Table of Contents
 
-- :cloud: [AWS Projects](#aws-projects)
-- :computer: [Other Projects](#other-projects)
-- :speaking_head: [Presentations](#presentations)
-- :headphones: [Podcasts](#podcasts)
-
-&#x270d; I also maintain a blog - you can find my articles on my website at [onecloudplease.com](https://onecloudplease.com/blog)
+- [:cloud: AWS Projects](#aws-projects)
+- [:computer: Other Projects](#other-projects)
+- [:pencil: Blog Posts](https://onecloudplease.com/blog)
+- [:speaking_head: Presentations](#presentations)
+- [:headphones: Podcasts](#podcasts)
 
 ## AWS Projects
 
 | Project | Build With |
 |:--------------------------- |:-----|
 | [Former2](https://github.com/iann0036/former2) <br/> Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources | JavaScript |
-| [Console Recorder for AWS](https://github.com/iann0036/AWSConsoleRecorder) <br/> Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates | JavaScript |
+| [Console Recorder for AWS](https://github.com/iann0036/AWSConsoleRecorder) <br/> Records actions made in the AWS Management Console and outputs the equivalent CLI / SDK commands and CloudFormation / Terraform templates | JavaScript |
 | [AWS Account Controller](https://github.com/iann0036/aws-account-controller) <br/> Self-service creation and deletion of sandbox-style accounts | JavaScript |
 | [Live Sync for AWS Cloud9](https://github.com/iann0036/cloud9-sync) <br/> Synchronize your VS Code workspace with the AWS Cloud9 service | JavaScript |
 | [Console Recorder Generator](https://github.com/iann0036/AWSConsoleRecorderGenerator) <br/> A helper extension that is used to assist in the development of the Console Recorder for AWS | JavaScript |
@@ -53,7 +52,7 @@
 |:--------------------------- |:-----|
 | [Wildfire](https://github.com/iann0036/wildfire) <br/> Record browser actions then replay immediately, craft your own custom automation workflows | JavaScript |
 | [Lone Tab](https://github.com/iann0036/Lone-Tab) <br/> Browser extension to create a new session for each tab | JavaScript |
-| [Touch Bar Browser Integration](https://github.com/iann0036/Touch-Bar-Browser-Integration) <br/> Uses the macOS control strip API and Native Messaging to create content that is specific to a website | Objective-C |
+| [Touch Bar Browser Integration](https://github.com/iann0036/Touch-Bar-Browser-Integration) <br/> Browser extension which uses the macOS control strip API and Native Messaging to create content that is specific to a website | Objective-C |
 | ["Bandersnatch" Graph](https://github.com/iann0036/bandersnatch-graph) <br/> Map out interactive Netflix titles, such as Black Mirror "Bandersnatch" | Python |
 
 ## Presentations
@@ -61,7 +60,7 @@
 | Presentation | Date |
 |:--------------------------- |:-----|
 | [Creating the AWS Account Controller](https://www.youtube.com/watch?v=HVpOMtE01kw) | June 30, 2020 |
-| [The pitfalls of privilege](https://www.brighttalk.com/webinar/the-pitfalls-of-privilege-managing-excess-permissions-in-the-cloud/) <br/> Presentation on managing excess permissions in the cloud | June 18, 2020 |
+| [The pitfalls of privilege](https://www.brighttalk.com/webinar/the-pitfalls-of-privilege-managing-excess-permissions-in-the-cloud/) <br/> Managing excess permissions in the cloud | June 18, 2020 |
 | [Automating Infrastructure-as-Code...twice](https://youtu.be/JeKEi-me01k?t=456) | June 6, 2020 |
 | [CloudFormation Custom Types](https://docs.google.com/presentation/d/15SZJzIZMvYJZ8daFbUCndbVxfl7GOXbh51oNteKOSUw/edit?usp=sharing) | December 2, 2019 |
 | [Amazon Textract Overview](https://docs.google.com/presentation/d/1N9aeEJdUxBQV7ZXN66yUccs-409Rm544o2SfwL_7vb0/edit?usp=sharing) | September 18, 2019 |
