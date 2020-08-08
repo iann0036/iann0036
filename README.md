@@ -1,4 +1,4 @@
-[Website](https://onecloudplease.com) • [Twitter](https://twitter.com/iann0036) • [LinkedIn](https://www.linkedin.com/in/iann0036) • [Contact](https://onecloudplease.com/contact)
+<p align="center">[Website](https://onecloudplease.com) • [Twitter](https://twitter.com/iann0036) • [LinkedIn](https://www.linkedin.com/in/iann0036) • [Contact](https://onecloudplease.com/contact)</p>
 
 # Projects, Posts, Presentations and Podcasts
 
