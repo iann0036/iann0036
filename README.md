@@ -70,6 +70,7 @@
 
 | Podcast | Date |
 |:--------------------------- |:-----|
+| [The Cloud Pod #80](https://www.thecloudpod.net/podcast/episode-80-the-cloud-pod-now-with-more-seoul/) | August 10, 2020 |
 | [The Cloud Pod #68](https://www.thecloudpod.net/podcast/68-the-cloud-pod-is-as-free-as-github-for-teams/) | May 2, 2020 |
 | [The Cloud Pod #57](https://www.thecloudpod.net/podcast/the-cloud-pod-has-a-secret-episode-57/) | February 6, 2020 |
 | [Ambassador Lounge #2](https://www.ambassador-lounge.com/podcast/2/) | December 1, 2019 |
