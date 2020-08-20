@@ -2,7 +2,7 @@
 
 # Projects, Posts, Presentations and Podcasts
 
-<img align="right" width="160" src="https://onecloudplease.com/images/other/AmbassadorLogo.png" />
+<img align="right" width="160" src="https://onecloudplease.com/images/other/HeroAmbassadorLogo.png" />
 
 ## Table of Contents
 
