@@ -45,6 +45,7 @@
 | [AWS Entity Relationship Diagram Generator](https://github.com/iann0036/aws-erd) | JavaScript |
 | [hcl2cdktf](https://github.com/iann0036/hcl2cdktf) <br/> Converts HCL to Terraform CDK | JavaScript |
 | [Custom Vocabulary Builder](https://github.com/iann0036/custom-vocab-builder) <br/> Construct Amazon Transcribe Custom Vocabulary lists, including IPA and Amazon Polly support | JavaScript |
+| [cfnfmt](https://github.com/iann0036/cfnfmt) <br/> CloudFormation template style formatter | JavaScript |
 
 ## Other Projects
 
