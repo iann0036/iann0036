@@ -49,7 +49,7 @@
 
 ## Other Projects
 
-| Project | Build With |
+| Project | Built With |
 |:--------------------------- |:-----|
 | [Wildfire](https://github.com/iann0036/wildfire) <br/> Record browser actions then replay immediately, craft your own custom automation workflows | JavaScript |
 | [Lone Tab](https://github.com/iann0036/Lone-Tab) <br/> Browser extension to create a new session for each tab | JavaScript |
