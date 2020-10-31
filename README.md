@@ -14,7 +14,7 @@
 
 ## AWS Projects
 
-| Project | Build With |
+| Project | Built With |
 |:--------------------------- |:-----|
 | [Former2](https://github.com/iann0036/former2) <br/> Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources | JavaScript |
 | [Console Recorder for AWS](https://github.com/iann0036/AWSConsoleRecorder) <br/> Records actions made in the AWS Management Console and outputs the equivalent CLI / SDK commands and CloudFormation / Terraform templates | JavaScript |
