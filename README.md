@@ -20,6 +20,7 @@
 | [Console Recorder for AWS](https://github.com/iann0036/AWSConsoleRecorder) <br/> Records actions made in the AWS Management Console and outputs the equivalent CLI / SDK commands and CloudFormation / Terraform templates | JavaScript |
 | [AWS Account Controller](https://github.com/iann0036/aws-account-controller) <br/> Self-service creation and deletion of sandbox-style accounts | JavaScript |
 | [Live Sync for AWS Cloud9](https://github.com/iann0036/cloud9-sync) <br/> Synchronize your VS Code workspace with the AWS Cloud9 service | JavaScript |
+| [AWS CloudShell plugin for VS Code](https://github.com/iann0036/vscode-aws-cloudshell) <br/> Open AWS CloudShell terminals within VS Code | JavaScript |
 | [Console Recorder Generator](https://github.com/iann0036/AWSConsoleRecorderGenerator) <br/> A helper extension that is used to assist in the development of the Console Recorder for AWS | JavaScript |
 | [CloudFormation Custom Types for Terraform](https://github.com/iann0036/cfn-tf-custom-types) <br/> Deploy over 3,000 new resource types with CloudFormation custom types | Python |
 | [AWS Pagination Rules](https://github.com/iann0036/aws-pagination-rules) <br/> Breakdown of the pagination rules by AWS service | N/A |
