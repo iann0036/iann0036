@@ -32,6 +32,7 @@
 | [AWS Bill Export](https://github.com/iann0036/aws-bill-export) <br/> Downloads AWS bills from the console programmatically | JavaScript |
 | [CloudFormation Service Role Generator](https://github.com/iann0036/aws-leastprivilege) <br/> Generates an IAM policy for the CloudFormation service role that adheres to least privilege | Python |
 | [CloudFormation Remediate Drift](https://github.com/iann0036/cfn-remediate-drift) <br/> Automated CloudFormation drift remediation using Import functionality | Python |
+| [CloudFormation Stack Rename](https://github.com/iann0036/cfn-stack-rename) <br/> Rename a CloudFormation stack | Python |
 | [CloudFormation Provider for Amazon Connect](https://github.com/iann0036/amazon-connect-cfn) <br/> Create Amazon Connect instances, contact flows etc. with CloudFormation | JavaScript |
 | [CloudFormation Custom Resource Type Examples](https://github.com/iann0036/cfn-types) <br/> Example CloudFormation Custom Resource Types | Java |
 | [Amazon Textract Demo](https://github.com/iann0036/textract-demo) <br/> Demonstration of Amazon Textract using its Boto3 library | Python |
