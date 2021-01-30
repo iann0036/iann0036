@@ -4,11 +4,11 @@
 
 ## About
 
-Ian is the Cloud Lead at [Kablamo](https://www.kablamo.com.au/), a cloud product development and data consultancy specializing in building applications native to the AWS cloud. He is usually focused on cloud architecture, CI/CD and security, but is always trying out the latest AWS services. He also previously managed infrastructure at Stan, an Australian streaming service.
+Hi there 👋
 
-Between helping clients he loves the chance to build open-source projects with a focus on AWS automation and tooling. Ian built and maintains both the [Former2](https://github.com/iann0036/former2) and [Console Recorder for AWS](https://github.com/iann0036/AWSConsoleRecorder) projects, which help developers author Infrastructure as Code templates (such as CloudFormation) from existing resources or while in the AWS Management Console.
+I'm Ian, an AWS Community Hero, APN Ambassador and general cloud enthusiast. I work in Sydney as the Cloud Lead at Kablamo, a cloud consultancy with a focus on delivering digital products and solutions, but I also regularly contribute to open-source projects here with a focus on AWS automation and tooling, especially involving Infrastructure-as-Code.
 
-Ian also enjoys speaking at meetups, co-hosting podcasts, engaging with the community on Slack, and posting his latest experiences within AWS on his [blog](https://onecloudplease.com/blog/).
+I also enjoy speaking at meetups, co-hosting podcasts, engaging with the community on Slack, and posting about my latest experiences within AWS on my [blog](https://onecloudplease.com/blog/). You can find more of my work below.
 
 ## My Work
 
