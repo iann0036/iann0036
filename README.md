@@ -9,5 +9,3 @@
 - [:pencil: Blog Posts](https://onecloudplease.com/blog)
 - [:speaking_head: Presentations](https://github.com/iann0036/iann0036/blob/master/CONTENT.md#presentations)
 - [:headphones: Podcasts](https://github.com/iann0036/iann0036/blob/master/CONTENT.md#podcasts)
-
-:balloon:
