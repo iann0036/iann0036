@@ -16,6 +16,7 @@
 | [CloudFormation Resource Provider Schema Linter](https://github.com/iann0036/cfn-rps-lint) <br/> VS Code extension to lint your AWS CloudFormation Resource Provider JSON Schema | JavaScript |
 | [Automatic Capacity Reservations](https://github.com/iann0036/auto-capacity-reservations) <br/> Automatically assigns EC2 capacity reservations based on the number of instances active | Python |
 | [AWS Bill Export](https://github.com/iann0036/aws-bill-export) <br/> Downloads AWS bills from the console programmatically | JavaScript |
+| [iamlive](https://github.com/iann0036/iamlive) <br/> Generate a basic IAM policy from AWS client-side monitoring (CSM) | Go |
 | [CloudFormation Service Role Generator](https://github.com/iann0036/aws-leastprivilege) <br/> Generates an IAM policy for the CloudFormation service role that adheres to least privilege | Python |
 | [CloudFormation Remediate Drift](https://github.com/iann0036/cfn-remediate-drift) <br/> Automated CloudFormation drift remediation using Import functionality | Python |
 | [CloudFormation Stack Rename](https://github.com/iann0036/cfn-stack-rename) <br/> Rename a CloudFormation stack | Python |
