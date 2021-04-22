@@ -46,6 +46,7 @@
 | [Lone Tab](https://github.com/iann0036/Lone-Tab) <br/> Browser extension to create a new session for each tab | JavaScript |
 | [Touch Bar Browser Integration](https://github.com/iann0036/Touch-Bar-Browser-Integration) <br/> Browser extension which uses the macOS control strip API and Native Messaging to create content that is specific to a website | Objective-C |
 | ["Bandersnatch" Graph](https://github.com/iann0036/bandersnatch-graph) <br/> Map out interactive Netflix titles, such as Black Mirror "Bandersnatch" | Python |
+| [censor-shell](https://github.com/iann0036/censor-shell) <br/> Censors or hides shell / Bash / console output based on defined patterns | Go |
 
 ## Presentations
 
