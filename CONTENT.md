@@ -36,6 +36,7 @@
 | [Custom Vocabulary Builder](https://github.com/iann0036/custom-vocab-builder) <br/> Construct Amazon Transcribe Custom Vocabulary lists, including IPA and Amazon Polly support | JavaScript |
 | [cfnfmt](https://github.com/iann0036/cfnfmt) <br/> CloudFormation template style formatter | JavaScript |
 | [AWS Cloud9 SSO Integration](https://github.com/iann0036/cloud9-sso) <br/> Add Cloud9 environments to AWS SSO | JavaScript |
+| [NICE DCV SDK Demo](https://github.com/iann0036/dcv-web-client) <br/> Demo of recording / playback using the NICE DCV SDK | JavaScript |
 
 ## Other Projects
 
@@ -50,6 +51,7 @@
 
 | Presentation | Date |
 |:--------------------------- |:-----|
+| Infrastructure as Code on Twitch ([Part 1](https://www.twitch.tv/videos/978547714), [Part 2](https://www.twitch.tv/videos/987045247)) | April 7, 2021 |
 | [Creating the AWS Account Controller](https://www.youtube.com/watch?v=HVpOMtE01kw) | June 30, 2020 |
 | [The pitfalls of privilege](https://www.brighttalk.com/webinar/the-pitfalls-of-privilege-managing-excess-permissions-in-the-cloud/) <br/> Managing excess permissions in the cloud | June 18, 2020 |
 | [Automating Infrastructure-as-Code...twice](https://youtu.be/JeKEi-me01k?t=456) | June 6, 2020 |
