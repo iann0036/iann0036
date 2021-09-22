@@ -9,6 +9,8 @@
 | [AWS CloudShell plugin for VS Code](https://github.com/iann0036/vscode-aws-cloudshell) <br/> Open AWS CloudShell terminals within VS Code | JavaScript |
 | [Console Recorder Generator](https://github.com/iann0036/AWSConsoleRecorderGenerator) <br/> A helper extension that is used to assist in the development of the Console Recorder for AWS | JavaScript |
 | [CloudFormation Custom Types for Terraform](https://github.com/iann0036/cfn-tf-custom-types) <br/> Deploy over 3,000 new resource types with CloudFormation custom types | Python |
+| [permissions.cloud](https://github.com/iann0036/permissions.cloud) <br/> A website to expose the IAM dataset in a clean, easy-to-read format | JavaScript |
+| [IAM Dataset](https://github.com/iann0036/iam-dataset) <br/> A community-driven dataset of AWS IAM actions and API methods | N/A |
 | [AWS Pagination Rules](https://github.com/iann0036/aws-pagination-rules) <br/> Breakdown of the pagination rules by AWS service | N/A |
 | [deepcomposer-upload](https://github.com/iann0036/deepcomposer-upload) <br/> CLI to upload a single-track MIDI to the AWS DeepComposer service | JavaScript |
 | [Honeycode AppFlow Integration](https://github.com/iann0036/honeycode-appflow-integration) <br/> Add Honeycode as a destination from AppFlow | JavaScript |
