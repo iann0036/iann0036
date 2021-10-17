@@ -54,6 +54,7 @@
 
 | Presentation | Date |
 |:--------------------------- |:-----|
+| [Mapping the AWS IAM universe](https://www.youtube.com/watch?v=kapb9bS5fAQ) | September 13, 2021 |
 | Infrastructure as Code on Twitch ([Part 1](https://www.twitch.tv/videos/978547714), [Part 2](https://www.twitch.tv/videos/987045247)) | April 7, 2021 |
 | [Creating the AWS Account Controller](https://www.youtube.com/watch?v=HVpOMtE01kw) | June 30, 2020 |
 | [The pitfalls of privilege](https://www.brighttalk.com/webinar/the-pitfalls-of-privilege-managing-excess-permissions-in-the-cloud/) <br/> Managing excess permissions in the cloud | June 18, 2020 |
