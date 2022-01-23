@@ -39,6 +39,7 @@
 | [cfnfmt](https://github.com/iann0036/cfnfmt) <br/> CloudFormation template style formatter | JavaScript |
 | [AWS Cloud9 SSO Integration](https://github.com/iann0036/cloud9-sso) <br/> Add Cloud9 environments to AWS SSO | JavaScript |
 | [NICE DCV SDK Demo](https://github.com/iann0036/dcv-web-client) <br/> Demo of recording / playback using the NICE DCV SDK | JavaScript |
+| [AWS SDK for Service Workers](https://github.com/iann0036/aws-sdk-serviceworker) <br/> A fork of the AWS JS SDK v2 with modifications to make it compatible with Service Workers | JavaScript |
 
 ## Other Projects
 
@@ -67,6 +68,8 @@
 
 | Podcast | Date |
 |:--------------------------- |:-----|
+| [Cloud Security Podcast S03E05](https://www.youtube.com/watch?v=gKvujkWQOAg) | January 23, 2022 |
+| [AWS.FM #16](https://aws.fm/episodes/episode-16-ian-mckay) | October 29, 2021 |
 | [The Cloud Pod #80](https://www.thecloudpod.net/podcast/episode-80-the-cloud-pod-now-with-more-seoul/) | August 10, 2020 |
 | [The Cloud Pod #68](https://www.thecloudpod.net/podcast/68-the-cloud-pod-is-as-free-as-github-for-teams/) | May 2, 2020 |
 | [The Cloud Pod #57](https://www.thecloudpod.net/podcast/the-cloud-pod-has-a-secret-episode-57/) | February 6, 2020 |
