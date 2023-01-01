@@ -59,6 +59,7 @@
 | Presentation | Date |
 |:--------------------------- |:-----|
 | [Building Open Source Live](https://www.twitch.tv/videos/1674539546?collection=T1passDrLhdY6Q) | November 29, 2022 |
+| [Build On Open Source Ep. 2](https://www.youtube.com/watch?v=x2dxQPCCjTM&ab_channel=BuildOnAWS) | September 16, 2022 |
 | [Mapping the AWS IAM universe](https://www.youtube.com/watch?v=kapb9bS5fAQ) | September 13, 2021 |
 | Infrastructure as Code on Twitch ([Part 1](https://www.twitch.tv/videos/978547714), [Part 2](https://www.twitch.tv/videos/987045247)) | April 7, 2021 |
 | [Creating the AWS Account Controller](https://www.youtube.com/watch?v=HVpOMtE01kw) | June 30, 2020 |
