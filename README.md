@@ -6,7 +6,7 @@
 
 Hi there 👋
 
-I'm Ian, an AWS Community Hero, AWS Ambassador and general cloud enthusiast. I work in Sydney as the Cloud Lead at Kablamo, a cloud consultancy with a focus on delivering digital products and solutions, but I also regularly contribute to open-source projects here with a focus on AWS automation and tooling, especially involving cloud security and Infrastructure-as-Code.
+I'm Ian, an AWS Community Hero, AWS Ambassador and general cloud enthusiast. I work in Sydney as the Cloud Principal at Kablamo, a cloud consultancy with a focus on delivering digital products and solutions, but I also regularly contribute to open-source projects here with a focus on AWS automation and tooling, especially involving cloud security and Infrastructure-as-Code.
 
 I also enjoy speaking at meetups, co-hosting podcasts, engaging with the community on Slack, and posting about my latest experiences within AWS on my [blog](https://onecloudplease.com/blog/). You can find more of my work below.
 
