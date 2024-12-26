@@ -1,8 +1,8 @@
 <p align="center"><a href="https://onecloudplease.com">Website</a> • <a href="https://twitter.com/iann0036">Twitter</a> • <a href="https://www.linkedin.com/in/iann0036">LinkedIn</a> • <a href="https://onecloudplease.com/contact">Contact</a></p>
 
-[<img align="right" width="160" src="https://onecloudplease.com/images/other/HeroAmbassadorLogo.png" />](https://aws.amazon.com/developer/community/heroes/ian-mckay/)
-
 ## About
+
+[<img align="right" width="160" src="https://onecloudplease.com/images/other/HeroAmbassadorLogo.png" />](https://aws.amazon.com/developer/community/heroes/ian-mckay/)
 
 Hi there 👋
 
