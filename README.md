@@ -2,7 +2,7 @@
 
 ## About
 
-[<img align="right" width="160" src="https://onecloudplease.com/images/other/HeroAmbassadorLogo.png" />](https://aws.amazon.com/developer/community/heroes/ian-mckay/)
+[<img align="right" width="160" src="https://onecloudplease.com/images/other/HeroLogo.png" />](https://aws.amazon.com/developer/community/heroes/ian-mckay/)
 
 Hi there 👋
 
